@@ -121,8 +121,8 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 📧 Contact
 
 For any queries or support, please contact:
-- Email: your.email@example.com
-- GitHub: [@yourusername](https://github.com/yourusername)
+- Email: aryan5592ar@gmail.com  
+- GitHub:maurya-aryan
 
 ---
 ⭐ Don't forget to star this repository if you found it helpful!
